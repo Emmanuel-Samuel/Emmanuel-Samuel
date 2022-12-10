@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EMMANUEL SAMUEL 
-- 👀 I’m interested in Web 3, Machine Learning, Pyton
-- 🌱 I’m currently learning Web 3 
+- 👀 I’m interested in Blockchain, Machine Learning, Software Development 
+- 🌱 I’m currently learning Artificial intelligence 
 - 💞️ I’m looking to collaborate on Blockchain projects and Machine Learning related 
 - 📫 How to reach me https://www.linkedin.com/mwlite/in/emmanuel-mayowa-samuel-168255143
 
