@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayorkingx
+- 👋 Hi, I’m @EMMANUEL SAMUEL 
 - 👀 I’m interested in Web 3, Machine Learning, Pyton
 - 🌱 I’m currently learning Web 3 
 - 💞️ I’m looking to collaborate on Blockchain projects and Machine Learning related 
