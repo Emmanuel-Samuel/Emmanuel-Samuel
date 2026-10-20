@@ -21,7 +21,9 @@ I'm open to remote AI/ML Engineer, Forward Deployed Engineer and Software Engine
 - **AIOps Operator Console.** Six monitoring systems behind one connector SDK, with anomaly detection and root-cause ranking on top.
 - **Per-Call LLM Cost Instrumentation.** Prices prompt, output, thinking and image tokens separately, per call, against a per-model rate table.
 
-<h1 align="center">Open Source Contributions 🌍</h1>
+<h1 align="center">Open Source 🌍</h1>
+
+### Contributions
 
 **[devdotfast/whiteboard](https://github.com/devdotfast/whiteboard)** · open-source canvas for thoughtful software design · ⭐ 3.2k
 
@@ -29,6 +31,13 @@ I'm open to remote AI/ML Engineer, Forward Deployed Engineer and Software Engine
 |---|---|---|
 | [#1222](https://github.com/devdotfast/whiteboard/issues/1222) | [#1223](https://github.com/devdotfast/whiteboard/pull/1223) ✅ merged | Desktop hung at start-up on Windows because it sent `SIGUSR2`, which Windows doesn't support. It now checks the old server is really the same process, then stops it with `SIGTERM`. |
 | [#1224](https://github.com/devdotfast/whiteboard/issues/1224) | [#1225](https://github.com/devdotfast/whiteboard/pull/1225) ✅ merged | Claude Code (`claude.exe`) wasn't detected on Windows. Agent CLIs are now found by their `.exe` and `.cmd` names. |
+
+### Projects I maintain
+
+**[Benaiah Studio](https://github.com/benaiahstudio)** · founder
+
+- **[figma-to-code](https://github.com/benaiahstudio/figma-to-code)**: a free, read-only bridge from Figma to code that works on Figma's free plan. It exports frames to files, writes a compact spec and design tokens, and checks the built page against the design. v0.1 beta, MIT.
+- **[figma-bench](https://github.com/benaiahstudio/figma-bench)**: an open, reproducible benchmark for Figma-to-code tools, run on CC BY 4.0 Figma Community frames. v0.1 beta, round 1 results published. MIT.
 
 <h1 align="center">Tech Stack</h1>
 
