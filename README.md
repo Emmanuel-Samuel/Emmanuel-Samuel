@@ -1,10 +1,10 @@
 <h1 align="center">Hello there :wave:, I'm <a href="https://ng.linkedin.com/in/emmanuel-samuel-168255143/" target="_blank">Emmanuel Samuel</a></h1>
 
-<h3 align="center">AI/ML Engineer | Agentic AI | Classical ML | AIOps</h3>
+<h3 align="center">Software Engineer | AI/ML Engineer | Agentic AI | Classical ML | AIOps</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Emmanuel-Samuel&label=Profile%20views&color=6805D3&style=flat" alt="Emmanuel-Samuel" /></p>
 
-I'm an AI/ML engineer. I build AI that survives production: agentic systems on AWS Bedrock and Google Vertex AI, classical ML for anomaly detection and forecasting, and the full stack around both, from the PostgreSQL schema to deployment.
+I'm a software engineer and AI/ML engineer. I build AI that survives production: agentic systems on AWS Bedrock and Google Vertex AI, classical ML for anomaly detection and forecasting, and the full stack around both, from the PostgreSQL schema to deployment.
 
 My portfolio is at [emmanuelmayowasamuel.vercel.app](https://emmanuelmayowasamuel.vercel.app). It has an AI Twin you can chat with about my work.
 
