@@ -10,7 +10,7 @@ My portfolio is at [emmanuelmayowasamuel.vercel.app](https://emmanuelmayowasamue
 
 <h1 align="center">What I'm Working On</h1>
 
-Right now that means LangGraph agents that load their tools over MCP, and AIOps work: anomaly detection, forecasting and root-cause ranking over live telemetry. I also keep a foot in classical ML, such as ensembles of Poisson regression, XGBoost and Elo.
+I also keep a hand in classical ML. My sports predictor combines Poisson regression, XGBoost and Elo ratings.
 
 I'm open to remote AI/ML Engineer, Forward Deployed Engineer and Software Engineer roles (US/EU).
 
